@@ -10,7 +10,7 @@
 
 ## Estrutura Básica
 
-<p align= "justify"> Foi utilizado várias "sections" para dividir cada seção de conteúdo (Hero Image / Hero Header, Sobre, Habilidades, Portfólio e Contato). Também foi utilizado linhas e colunas na estrutura de certas seções específicas, como exemplo a section Sobre. Além disso, utilizei diferentes recursos visuais, como ícones e imagens, para tornar a apresentação mais atraente e fácil de entender. O objetivo era proporcionar uma experiência ao usuário agradável e intuitiva, facilitando a navegação e a compreensão do conteúdo apresentado em cada seção. </p>
+<p align= "justify"> A estrutura básica do projeto foi em "Single Page", utilizando várias "sections" para dividir cada seção de conteúdo (Hero Image / Hero Header, Sobre, Habilidades, Portfólio e Contato). Também foi utilizado linhas e colunas na estrutura de certas seções específicas, como exemplo a section Sobre. Além disso, utilizei diferentes recursos visuais, como ícones e imagens, para tornar a apresentação mais atraente e fácil de entender. O objetivo era proporcionar uma experiência ao usuário agradável e intuitiva, facilitando a navegação e a compreensão do conteúdo apresentado em cada seção. </p>
 
 <br>
 
