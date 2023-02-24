@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{ 
+    margin:100;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-image: url('https://i.imgur.com/A5F7h8w.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.card {
+    background-color: #ffffff50;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 2px 0px #00000080;
+}
+
+h3 {
+    text-align: center;  
+    margin-bottom: 10px;
+    color: #010d40;
+}	
+
+.label-float input {
+    width: 100%;
+    padding: 3px;
+    display: inline-block;
+    border: 0;
+    border-radius: 3px;
+    font-size: 15px;
+}
+
+button {
+    padding: 5px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 12pt;
+    margin-top: 10px;
+    cursor: pointer;
+    outline: none; 
+}
+
+button:hover {
+    background-color: #2961a5;
+    color: #fff;
+    transition: all .4s ease-out;
+}
+
+.justify-center {
+    display: flex;
+    justify-content: center;
+}
+
+.containerAluno {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.cardAluno {
+    background-color: #ffffff50;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 2px 0px #00000080;
+}	
+
+table tr td {
+    width: 200px;
+}

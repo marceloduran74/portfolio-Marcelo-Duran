@@ -1,0 +1,96 @@
+/* texto hero image */
+.hero_titulo {
+    font-size: 4.5rem;
+}
+.hero_desc {
+    font-size: 2rem;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.bgimage {
+    height: 100vh;
+    background: url('img/heroImage.jpg');
+    background-size: cover;
+    position: relative;
+}
+
+/* imagem sobre */
+.imagemSobre {
+    width: 100%;
+}
+
+/* habilidades */ 
+.skillsText.card {
+    height: 340px;
+    cursor: pointer;
+    text-align: justify;
+}
+
+.skillsIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+
+.card-title {
+    text-align: center;    
+}
+
+.card:hover .skillsIcon {
+    color: #156e45;    
+}
+
+.skillsText:hover {
+    border: 1px solid #156e45;
+}
+
+/* menu */
+.navbar {
+    background-color: #4c6655;
+}
+.navbar a {
+    color: white;
+}
+.navbar a:hover {
+    color: #223127;
+    background-color: #c4e0cf;
+}
+
+.contactIcon {
+    font-size: 56px;
+    color: #4c6655;
+}
+
+.glass {
+    /* From https://css.glass */
+    height: 40%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.9px);
+    -webkit-backdrop-filter: blur(4.2px);
+}
+
+#sobre, #portfolio, #contato {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    text-align: justify;
+}
+
+#skills {
+    padding-top: 5rem;
+}
+
+#footer {
+	background-color: #4e5751;    
+}
