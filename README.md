@@ -1,4 +1,12 @@
-# Projeto Portfólio
+<h1 align="center"> Projeto Portfólio </h1>
+
+<p align="center">
+* <a href="#bootstrap">Bootstrap</a> *
+<a href="#glassmorphism">Glassmorphism</a> *
+<a href="#conheça-outros-projetos">Conheça outros projetos</a> *
+</p>
+
+<br>
 
 ## Estrutura Básica
 
@@ -47,5 +55,5 @@ Graças às suas funcionalidades e recursos, o Bootstrap se tornou uma das opç�
 
 
 <p align= "center"> 
-  <a align= "center" href="https://marceloduran74.github.io/portfolio-Marcelo-Duran" target="_blank"> <br> Acesse o Github </a>
+  <a align= "center" href="https://marceloduran74.github.io/portfolio-Marcelo-Duran" target="_blank"> <br> Acesse a página no Github </a>
 </p>
